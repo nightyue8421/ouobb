@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/ProgramTrading/v15/Server/sqlite3
+/ProgramTrading/bin/Debug
+/Lab1/obj/Debug
+/ConsoleApp1/obj/Debug
