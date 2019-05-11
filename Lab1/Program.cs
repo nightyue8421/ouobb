@@ -116,7 +116,7 @@ namespace Lab1
         /// </summary>
         private static void MrWangConnection_OnMatchInfo(Match match)
         {
-          
+          //123
         }
     }
 }
